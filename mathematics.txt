@@ -1,0 +1,13 @@
+Negative 8 comma 3 is right over here. 4 comma 6 is right there.;-8,3 thì ngay đây. Còn (4,6) thì đây.
+And so it looks like if I have an even plus an odd, and I've only tried out two cases here, but I encourage you to try out many, many, many more to make sure that you feel good about this, but an even and an odd is always going to give you an odd.;Vậy nêu thầy cộng một số chẵn với một số lẻ, như thầy vừa thử hai trường hợp ở đây, nhưng các em hãy tìm thử càng nhiều ví dụ càng tốt để chắc chắn rằng các em nắm được quy luật này, rằng một số chẵn cộng với một số lẻ luôn luôn cho ta một số lẻ.
+So positive 8 and minus 2.;8 Rất tích cực và trừ đi 2.
+And hopefully that makes sense, because this is going to be 2 times itself two times, 2 times itself four times, 2 times itself six times.;Điều này dẽ hiểu vì đây là " 2 " nhân với chính nó 2 lần, rồi nhân với chính nó 4 lần rồi nhân với chính nó 6 lần
+The length is 9, and we're going to multiply that times the width.;Chiều dài là 9, và chúng ta sẽ nhân cho độ dài chiều rộng.
+So the least of them being on the left hand side, and the greatest on the right.;Nên số nhỏ nhất trong số chúng sẽ ở bên trái và số lớn nhất sẽ ở bên phải
+Column 4 = column 2-column 3;Cột 4 = Cột 2-Cột 3
+Use the line you just made and add 43 to 90 to get 133 degrees.;Dùng đường thẳng vừa vẽ và cộng 43 vào 90 để được 133 độ.
+And those regions where the second derivative is positive or negative respectively determines the concavity of your function.;Và những khu vực nơi các đạo hàm thứ hai là + hay-tương ứng sẽ xác định các bề lõm của hàm số.
+That number is 250.;Con số đó là 250.
+And there 's hundreds of them .;Và có hàng trăm con số như thế .
+But one of them , by luck , may put two numbers in the right order .;Nhưng một trong số đó , nếu may mắn , sẽ đặt hai số vào đúng vị trí .
+Now if you do the math , people were at least six times more likely to buy a jar of jam if they encountered six than if they encountered 24 .;Bây giờ , thử làm 1 bài toán ít nhất gấp 6 lần số người muốn mua 1 chai mứt khi họ thấy 6 loại hơn là khi họ thấy 24 loại .
